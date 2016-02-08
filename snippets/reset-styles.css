@@ -1,0 +1,18 @@
+<style>
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	table, td {
+		border-collapse: collapse;
+		margin: 0;
+		padding: 0;
+	}
+	img {
+		display: block;
+		border: 0 none;
+		outline: none;
+		text-decoration: none;
+		line-height: 100%;
+	}  
+</style>
